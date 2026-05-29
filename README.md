@@ -86,7 +86,7 @@ A real-time interface allows users to:
 ### 🔍 Gradio Interface
 <img width="3401" height="1688" alt="image" src="https://github.com/user-attachments/assets/3441f0a0-e68b-4f9c-bfbe-7f3eff6711b8" />
 
-### 📊 Prediction Result
+### 📊 Results
 <img width="1497" height="653" alt="image" src="https://github.com/user-attachments/assets/6aea2389-e39e-47f1-9520-b3663e4a10fa" />
 
 ### 🔥 Grad-CAM Visualization
